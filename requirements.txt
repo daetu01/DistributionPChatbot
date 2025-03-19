@@ -1,9 +1,0 @@
-requests
-pandas
-notebook
-ipykernel
-matplotlib
-fastapi
-pydantic
-wikipedia-api
-torch
